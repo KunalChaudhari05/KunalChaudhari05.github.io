@@ -8,4 +8,4 @@ LinkedIn Post :
 
 Click here to visit task: KunalChaudhari05.github.io
 
-[click here to jump to my anchor](KunalChaudhari05.github.io)
+[click here to jump to my site](KunalChaudhari05.github.io)
