@@ -6,4 +6,4 @@ Task Name : Personal Portfolio
 
 LinkedIn Post : 
 
-[click here to visit my site](KunalChaudhari05.github.io)
+[click here to visit my site](https://kunalchaudhari05.github.io/)
